@@ -1,2 +1,2 @@
 # delta-demo
-Delta Student
+Delta Student.
